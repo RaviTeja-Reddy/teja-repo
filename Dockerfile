@@ -8,4 +8,4 @@ WORKDIR /var
 
 COPY . /var/
 
-COPY ../ravi-repo/ravi.txt /var/
+COPY ../ravi-repo/ravi/test.txt /var/
